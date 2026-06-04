@@ -1,0 +1,9 @@
+C:\Users\battl\Desktop\Clean Architecture API\obj\Debug\net8.0\Cleanarchg.api.csproj.AssemblyReference.cache
+C:\Users\battl\Desktop\Clean Architecture API\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\battl\Desktop\Clean Architecture API\obj\Debug\net8.0\Cleanarchg.api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\battl\Desktop\Clean Architecture API\obj\Debug\net8.0\Cleanarchg.api.AssemblyInfoInputs.cache
+C:\Users\battl\Desktop\Clean Architecture API\obj\Debug\net8.0\Cleanarchg.api.AssemblyInfo.cs
+C:\Users\battl\Desktop\Clean Architecture API\obj\Debug\net8.0\Cleanarchg.api.csproj.CoreCompileInputs.cache
+C:\Users\battl\Desktop\Clean Architecture API\obj\Debug\net8.0\Cleanarchg.api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\battl\Desktop\Clean Architecture API\obj\Debug\net8.0\Cleanarchg.api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\battl\Desktop\Clean Architecture API\obj\Debug\net8.0\Cleanarchg.api.sourcelink.json
