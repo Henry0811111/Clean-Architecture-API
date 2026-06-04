@@ -1,0 +1,6 @@
+C:\Users\battl\OneDrive\School\Clean-Architecture-API\obj\Debug\net8.0\Cleanarchg.domain.csproj.AssemblyReference.cache
+C:\Users\battl\OneDrive\School\Clean-Architecture-API\obj\Debug\net8.0\Cleanarchg.domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\battl\OneDrive\School\Clean-Architecture-API\obj\Debug\net8.0\Cleanarchg.domain.AssemblyInfoInputs.cache
+C:\Users\battl\OneDrive\School\Clean-Architecture-API\obj\Debug\net8.0\Cleanarchg.domain.AssemblyInfo.cs
+C:\Users\battl\OneDrive\School\Clean-Architecture-API\obj\Debug\net8.0\Cleanarchg.domain.csproj.CoreCompileInputs.cache
+C:\Users\battl\OneDrive\School\Clean-Architecture-API\obj\Debug\net8.0\Cleanarchg.domain.sourcelink.json

@@ -1,7 +1,7 @@
-using CleanArchG.Application.Handlers;
-using CleanArchG.Domain.Interfaces;
-using CleanArchG.Infrastructure.Data;
-using CleanArchG.Infrastructure.Repositories;
+using CleanArchAPI.Application.Handlers;
+using CleanArchAPI.Domain.Interfaces;
+using CleanArchAPI.Infrastructure.Data;
+using CleanArchAPI.Infrastructure.Repositories;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
