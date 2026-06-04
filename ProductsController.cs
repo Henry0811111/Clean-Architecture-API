@@ -9,12 +9,10 @@ namespace CleanArchG.API.Controllers;
 [Route("api/[controller]")]
 public class ProductsController(IMediator mediator) : ControllerBase
 {
-    // GET /api/products
     [HttpGet]
     public async Task<IActionResult> GetAll()
         => Ok(await mediator.Send(new GetAllProductsQuery()));
 
-    // GET /api/products/{id}
     [HttpGet("{id}")]
     public async Task<IActionResult> GetById(int id)
     {
@@ -22,7 +20,6 @@ public class ProductsController(IMediator mediator) : ControllerBase
         return result is null ? NotFound() : Ok(result);
     }
 
-    // POST /api/products
     [HttpPost]
     public async Task<IActionResult> Create([FromBody] CreateProductCommand command)
     {
@@ -30,7 +27,6 @@ public class ProductsController(IMediator mediator) : ControllerBase
         return CreatedAtAction(nameof(GetById), new { id = result.Id }, result);
     }
 
-    // PUT /api/products/{id}
     [HttpPut("{id}")]
     public async Task<IActionResult> Update(int id, [FromBody] UpdateProductCommand command)
     {
@@ -38,7 +34,6 @@ public class ProductsController(IMediator mediator) : ControllerBase
         return result is null ? NotFound() : Ok(result);
     }
 
-    // DELETE /api/products/{id}
     [HttpDelete("{id}")]
     public async Task<IActionResult> Delete(int id)
     {
